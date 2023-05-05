@@ -40,7 +40,9 @@ Analysis and systems development
 <br/>
 
 Education:
-🏫 FIAP - São Paulo/Brazil
+🏫 FIAP - São Paulo/Brazil 🇧🇷
+
+
 
 <br/>
 
