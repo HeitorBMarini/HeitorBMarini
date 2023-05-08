@@ -26,6 +26,10 @@
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 [![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000000)](https://powerbi.microsoft.com/)
 
+ <br/>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&hide=TeX&layout=compact)
+
 
 <div/>
 
@@ -34,8 +38,9 @@
  ⭐ Passionate about technology and how it changes people's lives
 
  <br/>
-Course:
-Analysis and systems development
+ 
+
+ <h1> Analysis and systems development</h1>
 
 <br/>
 
