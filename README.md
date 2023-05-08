@@ -6,7 +6,8 @@
 
 <br/>
 
-![Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=dark)
+[![Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=tokyonight
+)
 
 
 ### Technologies I used
