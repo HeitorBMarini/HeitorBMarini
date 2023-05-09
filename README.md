@@ -48,6 +48,11 @@
 Education:
 🏫 FIAP - São Paulo/Brazil 🇧🇷
 
+ Languages: 
+ 
+ Portuguese 🇧🇷 
+ English
+ Spanish
 
 
 <br/>
