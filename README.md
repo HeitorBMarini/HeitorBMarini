@@ -6,8 +6,7 @@
 
 <br/>
 
-[![Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=tokyonight
-)
+![HeitorBMarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&bg_color=000000)
 
 
 ### Technologies I used
@@ -29,7 +28,8 @@
 
  <br/>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&layout=compact)](https://github.com/HeitorBMarini/github-readme-stats)
+
 
 
 <div/>
@@ -52,8 +52,8 @@ Education:
  
  <ul>
   <li>Portuguese 🇧🇷 </li>
- <li>English</li>
-  <li>Spanish</li>
+ <li>English 🇺🇸 </li>
+  <li>Spanish 🇪🇸</li>
  </ul>
 
 <br/>
