@@ -50,10 +50,11 @@ Education:
 
  Languages: 
  
- Portuguese 🇧🇷 
- English
- Spanish
-
+ <ul>
+  <li>Portuguese 🇧🇷 </li>
+ <li>English</li>
+  <li>Spanish</li>
+ </ul>
 
 <br/>
 
