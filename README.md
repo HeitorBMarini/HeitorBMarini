@@ -26,6 +26,8 @@
 [![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff)](https://cloud.google.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 [![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000000)](https://powerbi.microsoft.com/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
 
  <br/>
  
