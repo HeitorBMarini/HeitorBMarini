@@ -2,18 +2,16 @@
 
 <br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-borba-marini/)
-
-<br/>
-
 ![HeitorBMarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&bg_color=000000)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HeitorBMarini&theme=jolly)](https://git.io/streak-stats)
 
-### Technologies I used
+<br/>
+ 💻 Technologies I used:
 
 <div style="display: inline_block"><br/>
 
- ###Front-End
+### Front-End
  <br/>
  
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -24,7 +22,7 @@
  [![ Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
  
- ##Back-End
+### Back-End
  <br/>
  
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -69,13 +67,10 @@ Education:
 
 <br/>
 
-Contact 📱 
+📱 Contact 
 
 <br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() <p> heitor.marini07@gmail.com <p/>
-
-<br/>
-
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() <p> (11) 999657980 <p/>
+ 
+<a href = "mailto:heitor.marini07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+ <a href="https://api.whatsapp.com/send/?phone=%2B5511999657980&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-borba-marini/)
