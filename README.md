@@ -6,6 +6,17 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HeitorBMarini&theme=jolly)](https://git.io/streak-stats)
 
+<h2> Working as Full Stack developer on Sistema Vanguard </h2>
+
+<p align="center" style="margin-top: 2rem; border-radius: 50%; width: 200px;">
+  <a href="https://www.sistemavanguard.com.br/">
+    <img src="https://github.com/HeitorBMarini/testePy-Vanguard/blob/main/assets/img/Vanguard-logo.jpg" alt="Sistema Vanguard">
+  </a>
+</p>
+
+
+<img> <img/>
+
 <br/>
  💻 Technologies I used:
 
@@ -64,7 +75,7 @@ Education:
  
  <ul>
   <li>Portuguese 🇧🇷 </li>
- <li>English 🇺🇸 </li>
+  <li>English 🇺🇸 </li>
   <li>Spanish 🇪🇸</li>
  </ul>
 
