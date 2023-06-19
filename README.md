@@ -8,11 +8,13 @@
 
 <h2> Working as Full Stack developer on Sistema Vanguard </h2>
 
-<p align="center" style="margin-top: 2rem;">
-  <a href="https://www.sistemavanguard.com.br/" target="_blank">
-    <img src="https://tse3.mm.bing.net/th?id=OIP.tABPmMuRPybje75OBIyUSgHaHa&pid=Api&P=0&h=180" alt="Sistema Vanguard" style="border-radius: 50%; width: 200px;">
+<div align="center">
+  <a href="https://www.sistemavanguard.com.br">
+    <img src="https://tse3.mm.bing.net/th?id=OIP.tABPmMuRPybje75OBIyUSgHaHa&pid=Api&P=0&h=180" alt="Sistema Vanguard" target="_blank" style="border-radius: 50%; width: 200px; margin-top: 5rem;">
   </a>
-</p>
+</div>
+
+
 
 
 
