@@ -1,27 +1,20 @@
 ### Hi I'm Heitor Borba Marini! ✋
 
+<h2 style="animation: rainbow 5s linear infinite;">Full Stack Developer 🖥️</h2>
+
+ 
 <br/>
 
-![HeitorBMarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&bg_color=000000)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HeitorBMarini&theme=jolly)](https://git.io/streak-stats)
-
-<h2> Working as Full Stack developer on Sistema Vanguard </h2>
-
-<div align="center">
-  <a href="https://www.sistemavanguard.com.br">
-    <img src="https://tse3.mm.bing.net/th?id=OIP.tABPmMuRPybje75OBIyUSgHaHa&pid=Api&P=0&h=180" alt="Sistema Vanguard" target="_blank" style="border-radius: 50%; width: 200px; margin-top: 5rem;">
-  </a>
+<div>
+  <a href="https://github.com/HeitorBMarini">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&layout=compact&langs_count=7&theme=radical"/>
 </div>
+<br/>
 
-
-
-
-
-<img> <img/>
 
 <br/>
- 💻 Technologies I used:
+ <h2>Technologies I used:</h2> 
 
 <div style="display: inline_block"><br/>
 
@@ -54,15 +47,11 @@
 
  <br/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&layout=compact)](https://github.com/HeitorBMarini/github-readme-stats)
-
-
-
 <div/>
 
 <br/>
 
- ⭐ Passionate about technology and how it changes people's lives
+ 🕮 Passionate about technology and how it changes people's lives
 
  <br/>
  
@@ -72,7 +61,14 @@
 <br/>
 
 Education:
-🏫 FIAP - São Paulo/Brazil 🇧🇷
+
+<ul> 
+  <li>🏫 FIAP </li>
+  <li>São Paulo/Brazil 🇧🇷</li>
+
+</ul>
+
+<br/>
 
  Languages: 
  
@@ -84,10 +80,14 @@ Education:
 
 <br/>
 
-📱 Contact 
+ Contact 📱
 
 <br/>
  
 <a href = "mailto:heitor.marini07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <a href="https://api.whatsapp.com/send/?phone=%2B5511999657980&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-borba-marini/)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitor.marini195/)
+
+ 
+
