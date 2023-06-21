@@ -6,6 +6,12 @@
 <br/>
 
 <div>
+ <h2> ⭐ My Statistics</h2>
+</div>
+
+<br/>
+
+<div>
   <a href="https://github.com/HeitorBMarini">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&layout=compact&langs_count=7&theme=radical"/>
@@ -51,7 +57,19 @@
 
 <br/>
 
- 🕮 Passionate about technology and how it changes people's lives
+<div>
+ <h3> 
+🚀 Passionate about technology and how it changes people's lives
+ </h3>
+ 
+<ul> 
+  <li> ✨ learning more</li>
+  <li> 🔧 Improve my skills</li>
+
+</ul>
+</div>
+
+
 
  <br/>
  
@@ -60,17 +78,17 @@
 
 <br/>
 
-Education:
+🏫 Education:
 
 <ul> 
-  <li>🏫 FIAP </li>
-  <li>São Paulo/Brazil 🇧🇷</li>
+  <li> 📚 FIAP </li>
+  <li> 📍 São Paulo/Brazil 🇧🇷</li>
 
 </ul>
 
 <br/>
 
- Languages: 
+ 🌐 Languages: 
  
  <ul>
   <li>Portuguese 🇧🇷 </li>
@@ -91,8 +109,6 @@ Education:
 
 <div>
 
-
- ![Snake animation](https://github.com/HeitorBMarini/HeitorBMarini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
