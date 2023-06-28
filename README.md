@@ -20,7 +20,7 @@
 
 
 <br/>
- <h2>Technologies I used:</h2> 
+ <h2> ⚙️ Technologies I used:</h2> 
 
 <div style="display: inline_block"><br/>
 
@@ -78,7 +78,7 @@
 
 <br/>
 
-🏫 Education:
+🏫 Education
 
 <ul> 
   <li> 📚 FIAP </li>
@@ -88,7 +88,7 @@
 
 <br/>
 
- 🌐 Languages: 
+ 🌐 Languages 
  
  <ul>
   <li>Portuguese 🇧🇷 </li>
