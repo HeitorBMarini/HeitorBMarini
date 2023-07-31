@@ -13,8 +13,8 @@
 
 <div>
   <a href="https://github.com/HeitorBMarini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="align="center" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&layout=compact&langs_count=16&theme=dracula" style="align="center"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" style="align="center" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&layout=compact&langs_count=16&theme=cobalt" style="align="center"/>
   </a>
 </div>
 
