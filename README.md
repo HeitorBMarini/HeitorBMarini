@@ -13,82 +13,89 @@
 
 <div>
   <a href="https://github.com/HeitorBMarini">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&layout=compact&langs_count=16&theme=dracula" style="margin-left:  
+     1rem;"/>
+  </a>
 </div>
-<br/>
 
 
 <br/>
- <h2> ⚙️ Technologies I used:</h2> 
 
-<div style="display: inline_block"><br/>
 
-### Front-End
+
+ 
+
+ <div  align="center"> 
+   <div ><br>
+     <img align="left" height="250" alt="coding-time" src="code.gif">
+     <h1 style="display: inline_block" align="center">⚙️ Tecnologies </h1>
+    <br>
+    <br>
+     <img align="center" height="40" width="50" alt="python-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" height="40" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+     <img align="center" height="40" width="50" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="center" height="40" width="50" alt="c#-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img align="center" height="40" width="50" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <img align="center" height="40" width="50" alt="springBoot-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+     <img align="center" height="50" width="60" alt="jupyter-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+     <img align="center" height="50" width="60" alt="Flask-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+    <br>
+    <br>
+     <img align="center" height="40" width="50" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     <img align="center" height="40" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" height="40" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" height="40" width="50" alt="sass-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+      <img align="center" height="40" width="50" alt="javascript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+     <img align="center" height="40" width="50" alt="nextjs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
+     <img align="center" height="40" width="50" alt="Angular-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+     <img align="center" height="40" width="50" alt="TypeScript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+      <br>
+    <br>
+     <img align="center" height="40" width="60" alt="Linux-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+     <img align="center" height="50" width="60" alt="Mysql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+     <img align="center" height="50" width="60" alt="Oracle-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+
+
+   
+
  <br/>
  
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://reactnative.dev/)
- [![ Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-
-
- 
-### Back-End
- <br/>
- 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff)](https://spring.io/projects/spring-boot)
-[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff)](https://cloud.google.com/)
-[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
-[![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000000)](https://powerbi.microsoft.com/)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-
-
- <br/>
- 
-<div/>
 
 <br/>
+<div  align="center"> 
 
-<div>
  <h3> 
 🚀 Passionate about technology and how it changes people's lives
  </h3>
  
 <ul> 
+ <br>
   <li> ✨ learning more</li>
   <li> 🔧 Improve my skills</li>
-
 </ul>
-</div>
 
 
 
  <br/>
  
 
- <h1> Analysis and systems development</h1>
+ <p> Analysis and systems development</p>
 
 <br/>
 
-🏫 Education
+<h3>🏫 Education<h3/>
 
 <ul> 
   <li> 📚 FIAP </li>
+ <br
   <li> 📍 São Paulo/Brazil 🇧🇷</li>
 
 </ul>
 
 <br/>
 
- 🌐 Languages 
+ <h3>🌐 Languages <h3/>
  
  <ul>
   <li>Portuguese 🇧🇷 </li>
@@ -98,7 +105,7 @@
 
 <br/>
 
- Contact 📱
+ <h3>Contact 📱<h3/>
 
 <br/>
  
@@ -106,9 +113,6 @@
  <a href="https://api.whatsapp.com/send/?phone=%2B5511999657980&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-borba-marini/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitor.marini195/)
-
-<div>
-
 
 </div>
 
