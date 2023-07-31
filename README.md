@@ -105,6 +105,6 @@
 
 </div>
 
-![Snake animation](https://github.com/HeitorBMarini/HeitorBMarini/blob/output/github-contribution-grid-snake.svg)
+
 
  
