@@ -5,7 +5,7 @@
  
 <br/>
 
-<div>
+<div align="center">
  <h2> ⭐ My Statistics</h2>
 </div>
 
@@ -13,9 +13,8 @@
 
 <div>
   <a href="https://github.com/HeitorBMarini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&layout=compact&langs_count=16&theme=dracula" style="margin-left:  
-     1rem;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorBMarini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="align="center" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorBMarini&layout=compact&langs_count=16&theme=dracula" style="align="center"/>
   </a>
 </div>
 
@@ -57,63 +56,54 @@
      <img align="center" height="50" width="60" alt="Oracle-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 
 
-   
+   <br>
 
  <br/>
  
+<div align="center">
 
-<br/>
-<div  align="center"> 
+  <h3>🚀 Passionate about technology and how it changes people's lives</h3>
 
- <h3> 
-🚀 Passionate about technology and how it changes people's lives
- </h3>
+  <ul style="list-style-type: none;">
+    <li>✨ Learning more</li>
+    <li>🔧 Improving my skills</li>
+  </ul>
+
+  <br/>
+
+  <h2>Analysis and Systems Development</h2>
+
+  <br/>
+
+  <h3>🏫 Education</h3>
+
+  <ul style="list-style-type: none;"> 
+    <li>📚 FIAP</li>
+    <li>📍 São Paulo/Brazil 🇧🇷</li>
+  </ul>
+
+  <br/>
+
+  <h3>🌐 Languages</h3>
  
-<ul> 
- <br>
-  <li> ✨ learning more</li>
-  <li> 🔧 Improve my skills</li>
-</ul>
-
-
-
- <br/>
- 
-
- <p> Analysis and systems development</p>
-
-<br/>
-
-<h3>🏫 Education<h3/>
-
-<ul> 
-  <li> 📚 FIAP </li>
- <br
-  <li> 📍 São Paulo/Brazil 🇧🇷</li>
-
-</ul>
-
-<br/>
-
- <h3>🌐 Languages <h3/>
- 
- <ul>
-  <li>Portuguese 🇧🇷 </li>
-  <li>English 🇺🇸 </li>
+ <ul style="list-style-type: none;">
+  <li>Portuguese 🇧🇷</li>
+  <li>English 🇺🇸</li>
   <li>Spanish 🇪🇸</li>
- </ul>
+</ul>
 
-<br/>
+  <br/>
 
- <h3>Contact 📱<h3/>
+  <h3>Contact 📱</h3>
 
-<br/>
- 
-<a href = "mailto:heitor.marini07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
- <a href="https://api.whatsapp.com/send/?phone=%2B5511999657980&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-borba-marini/)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitor.marini195/)
+  <br/>
+
+  <a href="mailto:heitor.marini07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5511999657980&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/heitor-borba-marini/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/heitor.marini195/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
+
 
  
