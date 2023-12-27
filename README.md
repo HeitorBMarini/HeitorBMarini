@@ -32,19 +32,23 @@ These are some of the technologies and tools I use:
 
 - Languages
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,java,cs,php,py)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,java,cs,php,flask,py)](https://skillicons.dev)
 
 - Frontend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,react,next,sass,styledcomponents,tailwind,bootstrap)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,react,next,react,sass,styledcomponents,tailwind,bootstrap)](https://skillicons.dev)
 
 - Backend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=docker,mysql,postgres,firebase)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=docker,mysql,postgres,firebase,redis)](https://skillicons.dev)
 
-- Tools and Plataforms
+- Tools and Platforms
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,githubactions,gitlab,postman,figma,linux,grafana)](https://skillicons.dev)
+
+- Versioning and IDES
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,vscode,eclipse)](https://skillicons.dev)
   
 
 
