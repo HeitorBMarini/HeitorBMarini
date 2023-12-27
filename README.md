@@ -71,7 +71,8 @@ These are some of the technologies and tools I use:
 ### 👨🏼‍💻 Full Stack Developer
 
   <br/>
-### 📚 Education
+  
+ ### 📚 Education
 
  
    <div>🏫 FIAP</div>
