@@ -62,7 +62,7 @@ These are some of the technologies and tools I use:
 
 - ✨ Learning more.
 
-- 🛠️ Never Giv up
+- 🛠️ Never Give up
 
 
 
