@@ -72,7 +72,7 @@ These are some of the technologies and tools I use:
 
   <br/>
   
- ### 📚 Education
+### 📚 Education
 
  
    <div>🏫 FIAP</div>
