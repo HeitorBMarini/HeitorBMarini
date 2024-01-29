@@ -40,7 +40,7 @@ These are some of the technologies and tools I use:
 
 - Backend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=docker,mysql,postgres,firebase,redis)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=docker,mysql,postgres,prisma,firebase,redis)](https://skillicons.dev)
 
 - Tools and Platforms
 
