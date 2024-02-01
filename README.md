@@ -44,7 +44,7 @@ These are some of the technologies and tools I use:
 
 - Tools and Platforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,githubactions,gitlab,postman,figma,linux,grafana)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,githubactions,gitlab,postman,figma,linux,grafana)](https://skillicons.dev)
 
 - Versioning and IDES
 
