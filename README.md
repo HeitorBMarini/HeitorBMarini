@@ -32,7 +32,7 @@ These are some of the technologies and tools I use:
 
 - Languages
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,java,cs,php,flask,py)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,php,flask,py)](https://skillicons.dev)
 
 - Frontend
 
