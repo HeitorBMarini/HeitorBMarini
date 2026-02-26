@@ -1,8 +1,5 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e90ff&size=44&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Heitor;I'm+from+Brazil;I+attending+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
- 
 <br/>
 
 
