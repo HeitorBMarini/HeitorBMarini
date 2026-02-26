@@ -1,11 +1,5 @@
 
 
-<br/>
-
-
-![Heitor's github stats](https://github-readme-stats.vercel.app/api?username=HeitorBMarini)
-
-
 ### ⚙️ Technologies:
 
 These are some of the technologies and tools I use:
