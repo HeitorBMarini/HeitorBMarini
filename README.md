@@ -5,11 +5,8 @@
  
 <br/>
 
- ### ⭐ My Statistics</h2>
 
-
-<br/>
-
+![Heitor's github stats](https://github-readme-stats.vercel.app/api?username=HeitorBMarini)
 
 
 ### ⚙️ Technologies:
