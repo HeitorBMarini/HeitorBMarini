@@ -31,15 +31,19 @@
 
 ### 🛠 Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,tailwind&perline=5" />
-  </a>
+**Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,angular,html,css" />
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,docker,git&perline=5" />
-  </a>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,php,cs" />
+</p>
+
+**Banco de dados, DevOps & Ferramentas**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,linux,figma,vscode" />
 </p>
 
 ---
